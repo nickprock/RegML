@@ -1,1 +1,1 @@
-# Lab exercises of RegML2021
+# RegML2021: Labs
